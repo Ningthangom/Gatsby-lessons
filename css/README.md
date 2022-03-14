@@ -1,0 +1,8 @@
+# CSS in gatsbyjs 
+
+    ## INLINE STYLES
+    ## GLOBAL CSS
+    ## CSS MODULES
+    ## STYLED-COMPONENTS
+    ## BOOTSTRAP, TAILWIND, EMOTION ETC
+
