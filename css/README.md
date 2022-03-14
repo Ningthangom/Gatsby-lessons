@@ -1,4 +1,4 @@
-# CSS in gatsbyjs 
+# Styling in gatsbyjs 
 
     ## INLINE STYLES
     ## GLOBAL CSS
